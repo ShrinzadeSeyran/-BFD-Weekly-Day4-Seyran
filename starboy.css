@@ -1,0 +1,126 @@
+.back{ height: 638px;
+    background: rgb(221,0,32);
+background: linear-gradient( rgba(221,0,32,1) 0%, rgba(152,0,101,1) 35%, rgba(40,0,212,1) 100%);
+}
+.Tech{
+    width: 150px;
+    background-size: cover;
+    margin-left: 200px;
+}
+.week{
+   width: 200px;
+   margin-top: 50px;
+   margin-left: 200px;
+}
+.starboy2{
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center; 
+    text-align: justify;
+    width: 550px;
+    margin-left: 300px;
+    padding-left: 110px;
+}.starboy{
+    color: white;
+    text-align: center;
+    margin-right: 378px;
+    margin-top: -200px;
+}
+.Home{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    font-weight: 750;
+}
+.Home1{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    font-weight: 750;
+}
+.Home2{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    font-weight: 750;
+}
+.Home3{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    font-weight: 750;
+}
+.Home4{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    font-weight: 750;
+}
+.homelar{
+    margin-left: 900px;
+    margin-top: -274px;
+}
+.s1{
+    width: 175px;
+    margin-top: 343px;
+    margin-left: 185px;
+}
+.s2{
+    width: 175px;
+    margin-top: 343px;
+    margin-left: 30px;
+}
+.s3{
+    width: 175px;
+    margin-top: 343px;
+    margin-left: 30px;
+}
+.s4{
+    width: 175px;
+    margin-top: 343px;
+    margin-left: 30px;
+}
+.s5{
+    width: 175px;
+    margin-top: 343px;
+    margin-left: 30px;
+}
+.s11{
+    color: white;
+    margin-left: 230px;
+    margin-top: 10px;
+}
+.s22{
+    color: white;
+    margin-left: 450px;
+    margin-top: -38px;
+}
+.s33{
+    color: white;
+    margin-left: 670px;
+    margin-top: -38px;
+}
+.s44{
+    color: white;
+    font-size: 14px;
+    margin-left: 820px;
+    margin-top: -36px;
+}
+.s55{
+    color: white;
+    margin-left: 1040px;
+    margin-top: -32px;
+}
+.tech{
+    color: white;
+    margin-left: 550px;
+    font-size: 12px;
+    margin-top: 15px;
+
+}
